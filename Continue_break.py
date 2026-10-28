@@ -42,7 +42,6 @@
 # else:
 #     print("done")
 
-n = int(input())
-for i in range (n,n+1):
+
     
    
